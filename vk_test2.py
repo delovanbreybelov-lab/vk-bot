@@ -3,7 +3,7 @@ import requests
 import random
 import os
 # --- НАСТРОЙКИ VK ---
-VK_TOKEN = os.getenv ("vk1.a.RRpH6aW2j7xXkLfS_8q9UcyC1GOw9iP1X8YTEHJiNgAPJd90Arx8PyIEtEQCAKmx2nF5Zuppsylczcdkhf8yC9Efi97-8kaUA8a9bIwUSYXONkKQr_R6H2OOeRHRXlFE7GmKvSbljDpnTQWEb8EUSxqKWm6tUkOXdMJBOFwHHBin12oq4zXl5HAh2rq_VxZn_zhcRJkFfX-RwIbUsl6leQ")
+VK_TOKEN = os.getenv ("VK_TOKEN")
 USER_ID = [521249117, 308573644]
 
 # --- НАСТРОЙКИ КОШЕЛЬКА ---
